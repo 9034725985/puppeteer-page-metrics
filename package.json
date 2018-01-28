@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer-page-metrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twclark0/puppeteer-page-metrics.git"
+  },
+  "author": "Tyler Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twclark0/puppeteer-page-metrics/issues"
+  },
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  }
+}

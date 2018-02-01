@@ -1,11 +1,11 @@
 exports.unusedCss = (stylesheets, ruleUsage) => {
-  let usedLength = 0
-  let totalLength = 0
+  let usedCSS = 0
+  let totalCSS = 0
   stylesheets.forEach(stylesheet => {
-    totalLength += stylesheet.length
-    usedLength += calcUsedLength(ruleUsage, stylesheet)
+    totalCSS += stylesheet.length
+    usedCSS += calcUsedLength(ruleUsage, stylesheet)
   })
-  return 100 - Math.round(usedLength / totalLength * 100)
+  return 100 - Math.round(usedCSS / totalCSS * 100)
 }
 
 const calcUsedLength = (ruleUsage, stylesheet) => {

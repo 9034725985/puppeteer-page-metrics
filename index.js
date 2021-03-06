@@ -99,6 +99,7 @@ async function getPageMetrics(urlstring) {
   }
 }
 
+console.log(`# Start a new run for all files`)
 console.log(`${new Date()}`)
 console.log('\r\n')
 

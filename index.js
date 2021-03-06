@@ -7,7 +7,7 @@ const addresses = [
 ]
 
 async function getPageMetrics(urlstring) {
-  const browser = await puppeteer.launch({ headless: false })
+  const browser = await puppeteer.launch({ headless: true })
   const page = await browser.newPage()
   await page._client.send('DOM.enable')
   await page._client.send('CSS.enable')

@@ -32,7 +32,27 @@ const addresses = [
   'https://dev-subaru.pantheonsite.io',
   'https://dev-boise.pantheonsite.io',
   'https://dev-visitboise.pantheonsite.io',
-  'https://dev-waitinglist.pantheonsite.io'
+  'https://dev-waitinglist.pantheonsite.io',
+  'https://stagepcna.znodedev.com/en-us',
+  'https://stagepcna.znodedev.com/en-ca',
+  'https://stagepcna.znodedev.com/en-us/bags/backpacks',
+  'https://stagepcna.znodedev.com/en-ca/bags/backpacks',
+  'https://stagepcna.znodedev.com/en-us/drinkware/tumblers',
+  'https://stagepcna.znodedev.com/en-ca/drinkware/tumblers',
+  'https://stagepcna.znodedev.com/en-us/technology/headphones-earbuds',
+  'https://stagepcna.znodedev.com/en-ca/technology/headphones-earbuds',
+  'https://stagepcna.znodedev.com/en-us/outdoor-sport/outdoor-blankets',
+  'https://stagepcna.znodedev.com/en-ca/outdoor-sport/outdoor-blankets',
+  'https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts',
+  'https://stagepcna.znodedev.com/en-ca/apparel/hoodies-sweatshirts',
+  'https://stagepcna.znodedev.com/en-us/product/welly-tumbler-traveler-bundle-set-1629-12',
+  'https://stagepcna.znodedev.com/en-ca/product/welly-tumbler-traveler-bundle-set-1629-12',
+  'https://stagepcna.znodedev.com/en-us/product/denon-ah-gc30-bluetooth-anc-headphones-7197-31',
+  'https://stagepcna.znodedev.com/en-ca/product/denon-ah-gc30-bluetooth-anc-headphones-7197-31',
+  'https://stagepcna.znodedev.com/en-us/product/high-sierra-roll-up-puffy-sherpa-blanket-8052-84',
+  'https://stagepcna.znodedev.com/en-ca/product/high-sierra-roll-up-puffy-sherpa-blanket-8052-84',
+  'https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734',
+  'https://stagepcna.znodedev.com/en-ca/product/womens-copperbay-roots73-fz-hoody-tm98734'
 ]
 
 async function getPageMetrics(urlstring) {

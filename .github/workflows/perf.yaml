@@ -1,0 +1,40 @@
+name: Run puppeeteer for performance
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm install -g yarn
+    - run: yarn
+    - run: node index.js > readme.md
+    - run: git config user.name "Kus";
+      if: always()
+    - run: git config user.email "kus@tilde.team";
+      if: always()
+    - run: git add .;
+      if: always()
+    - run: git commit -m "add all files" -m "yes, really";
+      if: always()
+    - run: git pull --rebase --strategy-option=theirs;
+      if: always()
+    - run: git push origin master;
+      if: always()

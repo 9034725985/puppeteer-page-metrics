@@ -1,7 +1,12 @@
 const puppeteer = require('puppeteer')
 const calcCss = require('./calcCss.js')
 
-const getPageMetrics = async () => {
+const addresses = [
+  'https://www.google.com',
+  'https://www.bing.com'
+]
+
+async function getPageMetrics(urlstring) {
   const browser = await puppeteer.launch({ headless: false })
   const page = await browser.newPage()
   await page._client.send('DOM.enable')
@@ -12,7 +17,7 @@ const getPageMetrics = async () => {
   const stylesheets = []
   page._client.on('CSS.styleSheetAdded', s => stylesheets.push(s.header))
 
-  await page.goto('https://www.google.com/')
+  await page.goto(urlstring)
   const response = await page._client.send('Performance.getMetrics')
   const JSUsedSize = response.metrics.find(x => x.name === 'JSHeapUsedSize').value
   const JSTotalSize = response.metrics.find(x => x.name === 'JSHeapTotalSize').value
@@ -26,15 +31,18 @@ const getPageMetrics = async () => {
   const { ruleUsage } = await page._client.send('CSS.stopRuleUsageTracking')
 
   const unusedCSS = calcCss.unusedCss(stylesheets, ruleUsage)
-  console.log(response)
+  console.log(`For ${urlstring}: `)
+  // console.log(response)
   console.log(`The page's first paint time is ${perf.firstPaint}ms`)
   console.log(
-    `${unusedCSS}% of CSS is unused, ${
-      stylesheets.length
+    `${unusedCSS}% of CSS is unused, ${stylesheets.length
     } total stylesheets`
   )
   console.log(`${unusedJS}% of JS is unused`)
+  console.log(`End of report for ${urlstring}`)
   await browser.close()
 }
 
-getPageMetrics()
+addresses.forEach(address => {
+  getPageMetrics(address)
+});

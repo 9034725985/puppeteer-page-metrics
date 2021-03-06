@@ -135,6 +135,10 @@ async function getPageMetrics(urlstring) {
 
     const start_time = new Date()
     await page.goto(urlstring)
+    const goto = await page.goto(urlstring, {
+      waitUntil: 'networkidle0',
+      timeout: 60
+    });
     const end_time = new Date()
 
     // console.log({ start_time })
@@ -160,7 +164,7 @@ async function getPageMetrics(urlstring) {
     // console.log(response)
     // console.log(`The page's first paint time is ${perf.firstPaint}ms`)
     console.log('\r\n')
-    console.log(`Total load time is ${ (end_time - start_time) / 1000} seconds`)
+    console.log(`Total load time is ${(end_time - start_time) / 1000} seconds`)
     console.log('\r\n')
     console.log(
       `${unusedCSS}% of CSS is unused, ${stylesheets.length

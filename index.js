@@ -2,8 +2,37 @@ const puppeteer = require('puppeteer')
 const calcCss = require('./calcCss.js')
 
 const addresses = [
-  'https://www.google.com',
-  'https://www.bing.com'
+  'https://broncos.neocities.org',
+  'https://live-wisconsin.pantheonsite.io',
+  'https://dev-kentucky.pantheonsite.io',
+  'https://dev-presenter.pantheonsite.io',
+  'https://dev-oregon.pantheonsite.io',
+  'https://dev-idahodeveloper.pantheonsite.io',
+  'https://dev-bang.pantheonsite.io',
+  'https://dev-usa.pantheonsite.io',
+  'https://live-bang.pantheonsite.io',
+  'https://dev-deutschland.pantheonsite.io',
+  'https://dev-election2020.pantheonsite.io',
+  'https://dev-indecision.pantheonsite.io',
+  'https://dev-europeanunion.pantheonsite.io',
+  'https://dev-iowa.pantheonsite.io',
+  'https://test-europeanunion.pantheonsite.io',
+  'https://test-iowa.pantheonsite.io',
+  'https://live-europeanunion.pantheonsite.io',
+  'https://live-iowa.pantheonsite.io',
+  'https://dev-official.pantheonsite.io',
+  'https://dev-portland.pantheonsite.io',
+  'https://dev-meeting.pantheonsite.io',
+  'https://dev-serious.pantheonsite.io',
+  'https://dev-nevada.pantheonsite.io',
+  'https://dev-utah.pantheonsite.io',
+  'https://dev-colorado.pantheonsite.io',
+  'https://dev-queenslibrary.pantheonsite.io',
+  'https://dev-newjersey.pantheonsite.io',
+  'https://dev-subaru.pantheonsite.io',
+  'https://dev-boise.pantheonsite.io',
+  'https://dev-visitboise.pantheonsite.io',
+  'https://dev-waitinglist.pantheonsite.io'
 ]
 
 async function getPageMetrics(urlstring) {

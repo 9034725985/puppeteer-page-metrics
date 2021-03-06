@@ -67,9 +67,9 @@ async function getPageMetrics(urlstring) {
     await page.goto(urlstring)
     const end_time = new Date()
 
-    console.log({ start_time })
-    console.log({ end_time })
-    console.log({ total_time: end_time - start_time })
+    // console.log({ start_time })
+    // console.log({ end_time })
+    // console.log({ total_time: end_time - start_time })
 
     const response = await page._client.send('Performance.getMetrics')
     const JSUsedSize = response.metrics.find(x => x.name === 'JSHeapUsedSize').value
@@ -87,6 +87,7 @@ async function getPageMetrics(urlstring) {
     console.log(`For ${urlstring}: `)
     // console.log(response)
     // console.log(`The page's first paint time is ${perf.firstPaint}ms`)
+    console.log(`Total load time is ${ end_time - start_time / 1000 } seconds`)
     console.log(
       `${unusedCSS}% of CSS is unused, ${stylesheets.length
       } total stylesheets`

@@ -114,3 +114,9 @@ console.log('\r\n')
 addresses.forEach(address => {
   getPageMetrics(address)
 });
+
+console.log('\r\n')
+console.log('\r\n')
+
+console.log(`# End of run`)
+console.log(`${new Date()}`)

@@ -84,19 +84,26 @@ async function getPageMetrics(urlstring) {
     const { ruleUsage } = await page._client.send('CSS.stopRuleUsageTracking')
 
     const unusedCSS = calcCss.unusedCss(stylesheets, ruleUsage)
+    console.log('\r\n')
+    console.log('\r\n')
     console.log(`For ${urlstring}: `)
     // console.log(response)
     // console.log(`The page's first paint time is ${perf.firstPaint}ms`)
-    console.log(`Total load time is ${ end_time - start_time / 1000 } seconds`)
+    console.log(`Total load time is ${end_time - start_time / 1000} seconds`)
+    console.log('\r\n')
     console.log(
       `${unusedCSS}% of CSS is unused, ${stylesheets.length
       } total stylesheets`
     )
+    console.log('\r\n')
     console.log(`${unusedJS}% of JS is unused`)
+    console.log('\r\n')
     console.log(`End of report for ${urlstring}`)
     await browser.close()
   } catch (error) {
     console.log({ error })
+    console.log('\r\n')
+    console.log('\r\n')
   }
 }
 

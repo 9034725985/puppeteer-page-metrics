@@ -86,9 +86,10 @@ async function getPageMetrics(urlstring) {
     const unusedCSS = calcCss.unusedCss(stylesheets, ruleUsage)
     console.log('\r\n')
     console.log('\r\n')
-    console.log(`For ${urlstring}: `)
+    console.log(`## For ${urlstring}: `)
     // console.log(response)
     // console.log(`The page's first paint time is ${perf.firstPaint}ms`)
+    console.log('\r\n')
     console.log(`Total load time is ${ (end_time - start_time) / 1000} seconds`)
     console.log('\r\n')
     console.log(

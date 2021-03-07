@@ -26,7 +26,7 @@ jobs:
     - run: npm install -g yarn
     - run: yarn
     - run: free -h
-    - run: node index.js > readme.md
+    - run: node stagepcna.js > readme.md
     - run: git config user.name "Kus";
       if: always()
     - run: git config user.email "kus@tilde.team";

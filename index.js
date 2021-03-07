@@ -101,7 +101,7 @@ const addresses = [
   'https://stagepcna.znodedev.com/en-us/legal'
 ]
 
-async function getPageMetrics(urlstring) {
+async function getPageMetrics() {
   try {
     const args = [
       "--disable-setuid-sandbox",
@@ -115,61 +115,64 @@ async function getPageMetrics(urlstring) {
       ignoreHTTPSErrors: true
     }
 
-    const browser = await puppeteer.launch(options)
-    const page = await browser.newPage()
-    await page.setViewport({
-      width: 1920,
-      height: 1080
-    })
-    await page._client.send('DOM.enable')
-    await page._client.send('CSS.enable')
-    await page._client.send('CSS.startRuleUsageTracking')
-    await page._client.send('Performance.enable')
+    for (const address of addresses) {
+      const browser = await puppeteer.launch(options)
+      const page = await browser.newPage()
+      await page.setViewport({
+        width: 1920,
+        height: 1080
+      })
+      await page._client.send('DOM.enable')
+      await page._client.send('CSS.enable')
+      await page._client.send('CSS.startRuleUsageTracking')
+      await page._client.send('Performance.enable')
+  
+      const stylesheets = []
+      page._client.on('CSS.styleSheetAdded', s => stylesheets.push(s.header))
+  
+      const start_time = new Date()
+      const goto = await page.goto(address, {
+        waitUntil: 'networkidle2',
+        timeout: 0
+      });
+      const end_time = new Date()
+  
+      // console.log({ start_time })
+      // console.log({ end_time })
+      // console.log({ total_time: end_time - start_time })
+  
+      const response = await page._client.send('Performance.getMetrics')
+      const JSUsedSize = response.metrics.find(x => x.name === 'JSHeapUsedSize').value
+      const JSTotalSize = response.metrics.find(x => x.name === 'JSHeapTotalSize').value
+      const unusedJS = Math.round((JSUsedSize / JSTotalSize) * 100)
+      // const perf = await page.evaluate(_ => ({
+      //   firstPaint:
+      //     chrome.loadTimes().firstPaintTime * 1000 -
+      //     performance.timing.navigationStart
+      // }))
+  
+      const { ruleUsage } = await page._client.send('CSS.stopRuleUsageTracking')
+  
+      const unusedCSS = calcCss.unusedCss(stylesheets, ruleUsage)
+      console.log('\r\n')
+      console.log('\r\n')
+      console.log(`## For ${address}: `)
+      // console.log(response)
+      // console.log(`The page's first paint time is ${perf.firstPaint}ms`)
+      console.log('\r\n')
+      console.log(`Total load time is ${(end_time - start_time) / 1000} seconds`)
+      console.log('\r\n')
+      console.log(
+        `${unusedCSS}% of CSS is unused, ${stylesheets.length
+        } total stylesheets`
+      )
+      console.log('\r\n')
+      console.log(`${unusedJS}% of JS is unused`)
+      console.log('\r\n')
+      console.log(`End of report for ${address}`)
+      await browser.close()
+    }
 
-    const stylesheets = []
-    page._client.on('CSS.styleSheetAdded', s => stylesheets.push(s.header))
-
-    const start_time = new Date()
-    const goto = await page.goto(urlstring, {
-      waitUntil: 'networkidle2',
-      timeout: 0
-    });
-    const end_time = new Date()
-
-    // console.log({ start_time })
-    // console.log({ end_time })
-    // console.log({ total_time: end_time - start_time })
-
-    const response = await page._client.send('Performance.getMetrics')
-    const JSUsedSize = response.metrics.find(x => x.name === 'JSHeapUsedSize').value
-    const JSTotalSize = response.metrics.find(x => x.name === 'JSHeapTotalSize').value
-    const unusedJS = Math.round((JSUsedSize / JSTotalSize) * 100)
-    // const perf = await page.evaluate(_ => ({
-    //   firstPaint:
-    //     chrome.loadTimes().firstPaintTime * 1000 -
-    //     performance.timing.navigationStart
-    // }))
-
-    const { ruleUsage } = await page._client.send('CSS.stopRuleUsageTracking')
-
-    const unusedCSS = calcCss.unusedCss(stylesheets, ruleUsage)
-    console.log('\r\n')
-    console.log('\r\n')
-    console.log(`## For ${urlstring}: `)
-    // console.log(response)
-    // console.log(`The page's first paint time is ${perf.firstPaint}ms`)
-    console.log('\r\n')
-    console.log(`Total load time is ${(end_time - start_time) / 1000} seconds`)
-    console.log('\r\n')
-    console.log(
-      `${unusedCSS}% of CSS is unused, ${stylesheets.length
-      } total stylesheets`
-    )
-    console.log('\r\n')
-    console.log(`${unusedJS}% of JS is unused`)
-    console.log('\r\n')
-    console.log(`End of report for ${urlstring}`)
-    await browser.close()
   } catch (error) {
     console.log({ error })
     console.log('\r\n')
@@ -184,19 +187,4 @@ console.log(`${new Date()}`)
 console.log('\r\n')
 console.log('\r\n')
 
-
-// addresses.forEach(address => {
-//   getPageMetrics(address)
-// });
-
-const myLoop = async _ => {
-  for (let address of addresses) {
-    console.log(`Start ${address}`)
-    console.log(`${new Date()}`)
-    console.log('\r\n')
-    getPageMetrics(address);
-    console.log(`End ${address}`)
-    console.log(`${new Date()}`)
-    console.log('\r\n')
-  }
-}
+getPageMetrics();

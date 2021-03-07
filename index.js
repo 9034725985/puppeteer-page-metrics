@@ -132,7 +132,7 @@ async function getPageMetrics(urlstring) {
     await page.goto(urlstring)
     const goto = await page.goto(urlstring, {
       waitUntil: 'networkidle0',
-      timeout: 60
+      timeout: 60000
     });
     const end_time = new Date()
 

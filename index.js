@@ -189,12 +189,14 @@ console.log('\r\n')
 //   getPageMetrics(address)
 // });
 
-for (let address of addresses) {
-  console.log(`Start ${address}`)
-  console.log(`${new Date()}`)
-  console.log('\r\n')
-  getPageMetrics(address);
-  console.log(`End ${address}`)
-  console.log(`${new Date()}`)
-  console.log('\r\n')
+const myLoop = async _ => {
+  for (let address of addresses) {
+    console.log(`Start ${address}`)
+    console.log(`${new Date()}`)
+    console.log('\r\n')
+    getPageMetrics(address);
+    console.log(`End ${address}`)
+    console.log(`${new Date()}`)
+    console.log('\r\n')
+  }
 }

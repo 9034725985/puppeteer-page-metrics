@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer')
 const calcCss = require('./calcCss.js')
-const max_listeners = require('events').EventEmitter.prototype._maxListeners = 100;
+const max_listeners = require('events').EventEmitter.prototype._maxListeners = 1000;
 
 const addresses = [
   'https://coloradoquiz.web.app/quiz/us-geography',

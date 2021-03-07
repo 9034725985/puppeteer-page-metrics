@@ -66,7 +66,27 @@ const addresses = [
   'https://stagepcna.znodedev.com/en-us/compliance',
   'https://stagepcna.znodedev.com/en-us/product-recalls',
   'https://stagepcna.znodedev.com/en-us/privacy-policy',
-  'https://stagepcna.znodedev.com/en-us/legal'
+  'https://stagepcna.znodedev.com/en-us/legal',
+
+  'https://stagepcna.znodedev.com/en-us/apparel',
+  'https://stagepcna.znodedev.com/en-us/bags',
+  'https://stagepcna.znodedev.com/en-us/drinkware',
+  'https://stagepcna.znodedev.com/en-us/health-beauty',
+  'https://stagepcna.znodedev.com/en-us/home-diy',
+  'https://stagepcna.znodedev.com/en-us/office',
+  'https://stagepcna.znodedev.com/en-us/outdoor-sport',
+  'https://stagepcna.znodedev.com/en-us/technology',
+  'https://stagepcna.znodedev.com/en-us/eco-friendly',
+
+  'https://stagepcna.znodedev.com/en-us/apparel/apparel-accessories',
+  'https://stagepcna.znodedev.com/en-us/apparel/face-coverings',
+  'https://stagepcna.znodedev.com/en-us/apparel/headwear',
+  'https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts',
+  'https://stagepcna.znodedev.com/en-us/apparel/jackets-vests',
+  'https://stagepcna.znodedev.com/en-us/apparel/polos',
+  'https://stagepcna.znodedev.com/en-us/apparel/shirts',
+  'https://stagepcna.znodedev.com/en-us/apparel/sweaters',
+  'https://stagepcna.znodedev.com/en-us/apparel/t-shirts'
 ]
 
 async function getPageMetrics() {

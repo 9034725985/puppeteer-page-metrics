@@ -155,8 +155,9 @@ async function getPageMetrics() {
     console.log('\r\n')
     console.log(`End of run`)
     console.log('\r\n')
-    console.log(`The whole thing took ${(run_end_time - run_start_time) / (60 * 1000)} minutes.`)
-    console.log(`${new Date()}`)
+    const run_time = Math.round((run_end_time - run_start_time) / (60 * 1000)).toFixed(2);
+    console.log(`The whole thing took about ${run_time} minutes.`)
+    console.log(`${ new Date() } `)
     console.log('\r\n')
     console.log('\r\n')
 

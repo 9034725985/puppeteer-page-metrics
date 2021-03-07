@@ -86,7 +86,41 @@ const addresses = [
   'https://stagepcna.znodedev.com/en-us/apparel/polos',
   'https://stagepcna.znodedev.com/en-us/apparel/shirts',
   'https://stagepcna.znodedev.com/en-us/apparel/sweaters',
-  'https://stagepcna.znodedev.com/en-us/apparel/t-shirts'
+  'https://stagepcna.znodedev.com/en-us/apparel/t-shirts',
+
+  'https://stagepcna.znodedev.com/en-us/product/skullcandy-crusher-evo-bluetooth-headphones-7196-15',
+  'https://stagepcna.znodedev.com/en-ca/product/skullcandy-crusher-evo-bluetooth-headphones-7196-15',
+
+  'https://stagepcna.znodedev.com/en-us/product/u-wallace-roots73-knit-scarf-tm45129',
+  'https://stagepcna.znodedev.com/en-us/product/unisex-kyes-eco-winter-snood-tm45140',
+  'https://stagepcna.znodedev.com/en-us/product/u-shelty-roots73-knit-toque-tm36108',
+  'https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734',
+  'https://stagepcna.znodedev.com/en-us/product/womens-bridgewater-roots73-insulated-jacket-tm99411',
+  'https://stagepcna.znodedev.com/en-us/product/mens-antero-short-sleeve-polo-knit-light-tm16703',
+  'https://stagepcna.znodedev.com/en-us/product/womens-sprucelake-roots73-long-sleeve-shirt-tm97603',
+  'https://stagepcna.znodedev.com/en-us/product/womens-equinox-knit-blazer-tm98613',
+  'https://stagepcna.znodedev.com/en-us/product/womens-riverrock-roots73-henley-tm97811',
+
+  'https://stagepcna.znodedev.com/en-us/product/elevate-soleil-backpack-10000-mah-power-bank-1975-22',
+  'https://stagepcna.znodedev.com/en-us/product/premium-work-from-home-essentials-7700-07',
+  'https://stagepcna.znodedev.com/en-us/product/kenneth-cole-colombian-leather-computer-messenger-9950-34',
+  'https://stagepcna.znodedev.com/en-us/product/arctic-zone-titan-deep-freeze-rolling-cooler-3860-58',
+  'https://stagepcna.znodedev.com/en-us/product/field-co-campster-drawstring-rucksack-7950-25',
+  'https://stagepcna.znodedev.com/en-us/product/kenneth-cole-colombian-leather-22-duffel-9950-30',
+  'https://stagepcna.znodedev.com/en-us/product/carhartt-signature-fanny-pack-1889-62',
+  'https://stagepcna.znodedev.com/en-us/product/thule-subterra-carry-on-22-luggage-9020-55',
+  'https://stagepcna.znodedev.com/en-us/product/moop-porter-tote-9005-22',
+  'https://stagepcna.znodedev.com/en-us/product/herschel-travel-daypack-20l-2009-15',
+
+  'https://stagepcna.znodedev.com/en-us/product/downtown-sling-backpack-sm-7591',
+  'https://stagepcna.znodedev.com/en-us/product/basic-work-from-home-essentials-kit-7700-04',
+  'https://stagepcna.znodedev.com/en-us/product/rhythm-non-woven-messenger-bag-sm-7349',
+  'https://stagepcna.znodedev.com/en-us/product/261464',
+  'https://stagepcna.znodedev.com/en-us/product/crossweave-heat-sealed-drawstring-bag-sm-5892',
+  'https://stagepcna.znodedev.com/en-us/product/merchant-craft-sawyer-18-duffel-3750-30',
+  'https://stagepcna.znodedev.com/en-us/product/hipster-budget-fanny-pack-sm-7102',
+  'https://stagepcna.znodedev.com/en-us/product/taggy-luggage-tag-sm-2393',
+  'https://stagepcna.znodedev.com/en-us/product/beach-towel-clips-sm-7689'
 ]
 
 async function getPageMetrics() {

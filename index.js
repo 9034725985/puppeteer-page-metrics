@@ -115,6 +115,15 @@ async function getPageMetrics() {
       ignoreHTTPSErrors: true
     }
 
+    console.log(`# Perf matters`)
+    console.log('\r\n')
+    console.log(`Start a new run`)
+    console.log(`${new Date()}`)
+    console.log('\r\n')
+    console.log('\r\n')
+
+    const run_start_time = new Date()
+
     for (const address of addresses) {
       const browser = await puppeteer.launch(options)
       const page = await browser.newPage()
@@ -173,18 +182,20 @@ async function getPageMetrics() {
       await browser.close()
     }
 
+    const run_end_time = new Date()
+
+    console.log('\r\n')
+    console.log(`End of run`)
+    console.log(`The whole thing took ${(run_end_time - run_start_time) / 1000} seconds`)
+    console.log(`${new Date()}`)
+    console.log('\r\n')
+    console.log('\r\n')
+
   } catch (error) {
     console.log({ error })
     console.log('\r\n')
     console.log('\r\n')
   }
 }
-
-console.log(`# Perf matters`)
-console.log('\r\n')
-console.log(`Start a new run`)
-console.log(`${new Date()}`)
-console.log('\r\n')
-console.log('\r\n')
 
 getPageMetrics();

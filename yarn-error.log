@@ -1,0 +1,56 @@
+Arguments: 
+  /opt/hostedtoolcache/node/14.17.1/x64/bin/node /opt/hostedtoolcache/node/14.17.1/x64/bin/yarn
+
+PATH: 
+  /opt/hostedtoolcache/node/14.17.1/x64/bin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/runner/.local/bin:/opt/pipx_bin:/usr/share/rust/.cargo/bin:/home/runner/.config/composer/vendor/bin:/usr/local/.ghcup/bin:/home/runner/.dotnet/tools:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.17.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/puppeteer/-/puppeteer-1.20.0.tgz: Request failed "502 Bad Gateway"
+      at ResponseError.ExtendableBuiltin (/opt/hostedtoolcache/node/14.17.1/x64/lib/node_modules/yarn/lib/cli.js:696:66)
+      at new ResponseError (/opt/hostedtoolcache/node/14.17.1/x64/lib/node_modules/yarn/lib/cli.js:802:124)
+      at Request.<anonymous> (/opt/hostedtoolcache/node/14.17.1/x64/lib/node_modules/yarn/lib/cli.js:67058:16)
+      at Request.emit (events.js:375:28)
+      at Request.module.exports.Request.onRequestResponse (/opt/hostedtoolcache/node/14.17.1/x64/lib/node_modules/yarn/lib/cli.js:141539:10)
+      at ClientRequest.emit (events.js:375:28)
+      at HTTPParser.parserOnIncomingClient (_http_client.js:647:27)
+      at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+      at TLSSocket.socketOnData (_http_client.js:515:22)
+      at TLSSocket.emit (events.js:375:28)
+
+npm manifest: 
+  {
+    "name": "puppeteer-page-metrics",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/twclark0/puppeteer-page-metrics.git"
+    },
+    "author": "Tyler Clark",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/twclark0/puppeteer-page-metrics/issues"
+    },
+    "dependencies": {
+      "puppeteer": "^1.0.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

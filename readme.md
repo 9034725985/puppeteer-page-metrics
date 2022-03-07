@@ -2,7 +2,7 @@
 
 
 Start a new run
-Mon Mar 07 2022 13:20:51 GMT+0000 (Coordinated Universal Time)
+Mon Mar 07 2022 14:15:02 GMT+0000 (Coordinated Universal Time)
 
 
 
@@ -14,13 +14,13 @@ Mon Mar 07 2022 13:20:51 GMT+0000 (Coordinated Universal Time)
 ## For https://stagepcna.znodedev.com/en-us: 
 
 
-Total load time is 2.693 seconds
+Total load time is 3.445 seconds
 
 
-94% of CSS is unused, 10 total stylesheets
+95% of CSS is unused, 7 total stylesheets
 
 
-56% of JS is unused
+41% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us
@@ -31,13 +31,13 @@ End of report for https://stagepcna.znodedev.com/en-us
 ## For https://stagepcna.znodedev.com/en-ca: 
 
 
-Total load time is 2.543 seconds
+Total load time is 1.899 seconds
 
 
-94% of CSS is unused, 13 total stylesheets
+95% of CSS is unused, 10 total stylesheets
 
 
-59% of JS is unused
+49% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca
@@ -48,13 +48,13 @@ End of report for https://stagepcna.znodedev.com/en-ca
 ## For https://stagepcna.znodedev.com/en-us/bags/backpacks: 
 
 
-Total load time is 3.241 seconds
+Total load time is 3.943 seconds
 
 
-92% of CSS is unused, 14 total stylesheets
+92% of CSS is unused, 11 total stylesheets
 
 
-52% of JS is unused
+35% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/bags/backpacks
@@ -65,13 +65,13 @@ End of report for https://stagepcna.znodedev.com/en-us/bags/backpacks
 ## For https://stagepcna.znodedev.com/en-ca/bags/backpacks: 
 
 
-Total load time is 3.116 seconds
+Total load time is 3.964 seconds
 
 
-92% of CSS is unused, 14 total stylesheets
+92% of CSS is unused, 11 total stylesheets
 
 
-60% of JS is unused
+37% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/bags/backpacks
@@ -82,13 +82,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/bags/backpacks
 ## For https://stagepcna.znodedev.com/en-us/drinkware/tumblers: 
 
 
-Total load time is 3.136 seconds
+Total load time is 3.307 seconds
 
 
-92% of CSS is unused, 14 total stylesheets
+92% of CSS is unused, 11 total stylesheets
 
 
-50% of JS is unused
+37% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/drinkware/tumblers
@@ -99,13 +99,13 @@ End of report for https://stagepcna.znodedev.com/en-us/drinkware/tumblers
 ## For https://stagepcna.znodedev.com/en-ca/drinkware/tumblers: 
 
 
-Total load time is 3.064 seconds
+Total load time is 3.325 seconds
 
 
-92% of CSS is unused, 14 total stylesheets
+92% of CSS is unused, 11 total stylesheets
 
 
-49% of JS is unused
+39% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/drinkware/tumblers
@@ -116,7 +116,7 @@ End of report for https://stagepcna.znodedev.com/en-ca/drinkware/tumblers
 ## For https://stagepcna.znodedev.com/en-us/technology/headphones-earbuds: 
 
 
-Total load time is 3.077 seconds
+Total load time is 4.275 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
@@ -133,7 +133,7 @@ End of report for https://stagepcna.znodedev.com/en-us/technology/headphones-ear
 ## For https://stagepcna.znodedev.com/en-ca/technology/headphones-earbuds: 
 
 
-Total load time is 3.093 seconds
+Total load time is 3.948 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
@@ -150,7 +150,7 @@ End of report for https://stagepcna.znodedev.com/en-ca/technology/headphones-ear
 ## For https://stagepcna.znodedev.com/en-us/outdoor-sport/outdoor-blankets: 
 
 
-Total load time is 4.23 seconds
+Total load time is 3.705 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
@@ -167,13 +167,13 @@ End of report for https://stagepcna.znodedev.com/en-us/outdoor-sport/outdoor-bla
 ## For https://stagepcna.znodedev.com/en-ca/outdoor-sport/outdoor-blankets: 
 
 
-Total load time is 2.875 seconds
+Total load time is 3.612 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-61% of JS is unused
+51% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/outdoor-sport/outdoor-blankets
@@ -184,13 +184,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/outdoor-sport/outdoor-bla
 ## For https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts: 
 
 
-Total load time is 3.048 seconds
+Total load time is 4.392 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-50% of JS is unused
+48% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts
@@ -201,7 +201,7 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshir
 ## For https://stagepcna.znodedev.com/en-ca/apparel/hoodies-sweatshirts: 
 
 
-Total load time is 2.695 seconds
+Total load time is 2.702 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
@@ -218,13 +218,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/apparel/hoodies-sweatshir
 ## For https://stagepcna.znodedev.com/en-us/product/welly-tumbler-traveler-bundle-set-1629-12: 
 
 
-Total load time is 3.357 seconds
+Total load time is 3.126 seconds
 
 
 91% of CSS is unused, 11 total stylesheets
 
 
-56% of JS is unused
+58% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/welly-tumbler-traveler-bundle-set-1629-12
@@ -235,13 +235,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/welly-tumbler-tra
 ## For https://stagepcna.znodedev.com/en-ca/product/welly-tumbler-traveler-bundle-set-1629-12: 
 
 
-Total load time is 2.983 seconds
+Total load time is 3.059 seconds
 
 
 91% of CSS is unused, 11 total stylesheets
 
 
-58% of JS is unused
+57% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/product/welly-tumbler-traveler-bundle-set-1629-12
@@ -252,13 +252,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/product/welly-tumbler-tra
 ## For https://stagepcna.znodedev.com/en-us/product/denon-ah-gc30-bluetooth-anc-headphones-7197-31: 
 
 
-Total load time is 2.859 seconds
+Total load time is 3.066 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-53% of JS is unused
+52% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/denon-ah-gc30-bluetooth-anc-headphones-7197-31
@@ -269,7 +269,7 @@ End of report for https://stagepcna.znodedev.com/en-us/product/denon-ah-gc30-blu
 ## For https://stagepcna.znodedev.com/en-ca/product/denon-ah-gc30-bluetooth-anc-headphones-7197-31: 
 
 
-Total load time is 2.34 seconds
+Total load time is 3.013 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
@@ -286,13 +286,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/product/denon-ah-gc30-blu
 ## For https://stagepcna.znodedev.com/en-us/product/high-sierra-roll-up-puffy-sherpa-blanket-8052-84: 
 
 
-Total load time is 2.891 seconds
+Total load time is 2.832 seconds
 
 
 92% of CSS is unused, 11 total stylesheets
 
 
-59% of JS is unused
+56% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/high-sierra-roll-up-puffy-sherpa-blanket-8052-84
@@ -303,13 +303,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/high-sierra-roll-
 ## For https://stagepcna.znodedev.com/en-ca/product/high-sierra-roll-up-puffy-sherpa-blanket-8052-84: 
 
 
-Total load time is 2.821 seconds
+Total load time is 2.987 seconds
 
 
 92% of CSS is unused, 11 total stylesheets
 
 
-65% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/product/high-sierra-roll-up-puffy-sherpa-blanket-8052-84
@@ -320,13 +320,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/product/high-sierra-roll-
 ## For https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734: 
 
 
-Total load time is 3.763 seconds
+Total load time is 3.768 seconds
 
 
 91% of CSS is unused, 11 total stylesheets
 
 
-62% of JS is unused
+59% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734
@@ -337,13 +337,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/womens-copperbay-
 ## For https://stagepcna.znodedev.com/en-ca/product/womens-copperbay-roots73-fz-hoody-tm98734: 
 
 
-Total load time is 3.34 seconds
+Total load time is 4.072 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-52% of JS is unused
+53% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/product/womens-copperbay-roots73-fz-hoody-tm98734
@@ -354,7 +354,7 @@ End of report for https://stagepcna.znodedev.com/en-ca/product/womens-copperbay-
 ## For https://stagepcna.znodedev.com/tools-services/customizable-ecatalogs: 
 
 
-Total load time is 4.363 seconds
+Total load time is 4.306 seconds
 
 
 94% of CSS is unused, 8 total stylesheets
@@ -371,7 +371,7 @@ End of report for https://stagepcna.znodedev.com/tools-services/customizable-eca
 ## For https://stagepcna.znodedev.com/tools-services/build-your-own-flyers: 
 
 
-Total load time is 9.69 seconds
+Total load time is 9.098 seconds
 
 
 97% of CSS is unused, 11 total stylesheets
@@ -388,13 +388,13 @@ End of report for https://stagepcna.znodedev.com/tools-services/build-your-own-f
 ## For https://stagepcna.znodedev.com/en-us/tools-services/custom-websites: 
 
 
-Total load time is 2.43 seconds
+Total load time is 2.652 seconds
 
 
 95% of CSS is unused, 24 total stylesheets
 
 
-52% of JS is unused
+50% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/tools-services/custom-websites
@@ -405,13 +405,13 @@ End of report for https://stagepcna.znodedev.com/en-us/tools-services/custom-web
 ## For https://stagepcna.znodedev.com/en-us/how-to-order/leeds: 
 
 
-Total load time is 2.421 seconds
+Total load time is 2.478 seconds
 
 
 95% of CSS is unused, 16 total stylesheets
 
 
-52% of JS is unused
+53% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/how-to-order/leeds
@@ -422,13 +422,13 @@ End of report for https://stagepcna.znodedev.com/en-us/how-to-order/leeds
 ## For https://stagepcna.znodedev.com/blog: 
 
 
-Total load time is 2.711 seconds
+Total load time is 2.682 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-53% of JS is unused
+54% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/blog
@@ -439,13 +439,13 @@ End of report for https://stagepcna.znodedev.com/blog
 ## For https://stagepcna.znodedev.com/en-us/tools-services/why-pcna: 
 
 
-Total load time is 2.425 seconds
+Total load time is 2.519 seconds
 
 
 94% of CSS is unused, 32 total stylesheets
 
 
-53% of JS is unused
+52% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/tools-services/why-pcna
@@ -456,13 +456,13 @@ End of report for https://stagepcna.znodedev.com/en-us/tools-services/why-pcna
 ## For https://stagepcna.znodedev.com/en-ca/tools-services/why-pcna: 
 
 
-Total load time is 2.486 seconds
+Total load time is 2.57 seconds
 
 
 95% of CSS is unused, 32 total stylesheets
 
 
-52% of JS is unused
+54% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/tools-services/why-pcna
@@ -473,7 +473,7 @@ End of report for https://stagepcna.znodedev.com/en-ca/tools-services/why-pcna
 ## For https://stagepcna.znodedev.com/en-us/tools-services/electronic-integration: 
 
 
-Total load time is 2.401 seconds
+Total load time is 2.548 seconds
 
 
 95% of CSS is unused, 12 total stylesheets
@@ -490,13 +490,13 @@ End of report for https://stagepcna.znodedev.com/en-us/tools-services/electronic
 ## For https://stagepcna.znodedev.com/en-ca/tools-services/electronic-integration: 
 
 
-Total load time is 2.389 seconds
+Total load time is 2.55 seconds
 
 
 95% of CSS is unused, 12 total stylesheets
 
 
-61% of JS is unused
+62% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/tools-services/electronic-integration
@@ -507,13 +507,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/tools-services/electronic
 ## For https://stagepcna.znodedev.com/en-us/tools-services/worldsource-custom-sourcing: 
 
 
-Total load time is 2.359 seconds
+Total load time is 2.091 seconds
 
 
-94% of CSS is unused, 22 total stylesheets
+95% of CSS is unused, 19 total stylesheets
 
 
-51% of JS is unused
+66% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/tools-services/worldsource-custom-sourcing
@@ -524,13 +524,13 @@ End of report for https://stagepcna.znodedev.com/en-us/tools-services/worldsourc
 ## For https://stagepcna.znodedev.com/en-ca/tools-services/worldsource-custom-sourcing: 
 
 
-Total load time is 2.425 seconds
+Total load time is 2.766 seconds
 
 
 94% of CSS is unused, 22 total stylesheets
 
 
-49% of JS is unused
+53% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/tools-services/worldsource-custom-sourcing
@@ -541,13 +541,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/tools-services/worldsourc
 ## For https://stagepcna.znodedev.com/en-us/tools-services/perfectly-packaged: 
 
 
-Total load time is 2.49 seconds
+Total load time is 2.505 seconds
 
 
 95% of CSS is unused, 11 total stylesheets
 
 
-53% of JS is unused
+52% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/tools-services/perfectly-packaged
@@ -558,7 +558,7 @@ End of report for https://stagepcna.znodedev.com/en-us/tools-services/perfectly-
 ## For https://stagepcna.znodedev.com/en-ca/tools-services/perfectly-packaged: 
 
 
-Total load time is 2.374 seconds
+Total load time is 2.501 seconds
 
 
 95% of CSS is unused, 10 total stylesheets
@@ -575,13 +575,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/tools-services/perfectly-
 ## For https://stagepcna.znodedev.com/en-us/brand/leeds/shop-all: 
 
 
-Total load time is 2.995 seconds
+Total load time is 3.038 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-59% of JS is unused
+52% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/brand/leeds/shop-all
@@ -592,7 +592,7 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/leeds/shop-all
 ## For https://stagepcna.znodedev.com/en-ca/brand/leeds/shop-all: 
 
 
-Total load time is 2.36 seconds
+Total load time is 2.992 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
@@ -609,7 +609,7 @@ End of report for https://stagepcna.znodedev.com/en-ca/brand/leeds/shop-all
 ## For https://stagepcna.znodedev.com/en-us/brand/bullet/shop-all: 
 
 
-Total load time is 2.994 seconds
+Total load time is 2.984 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
@@ -626,13 +626,13 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/bullet/shop-all
 ## For https://stagepcna.znodedev.com/en-ca/brand/bullet/shop-all: 
 
 
-Total load time is 2.999 seconds
+Total load time is 2.974 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-54% of JS is unused
+53% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/brand/bullet/shop-all
@@ -643,13 +643,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/brand/bullet/shop-all
 ## For https://stagepcna.znodedev.com/en-us/brand/bullet/shop-all: 
 
 
-Total load time is 2.346 seconds
+Total load time is 2.325 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-52% of JS is unused
+53% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/brand/bullet/shop-all
@@ -660,13 +660,13 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/bullet/shop-all
 ## For https://stagepcna.znodedev.com/en-us/brand/trimark/shop-all: 
 
 
-Total load time is 2.988 seconds
+Total load time is 3.085 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-53% of JS is unused
+54% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/brand/trimark/shop-all
@@ -677,7 +677,7 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/trimark/shop-all
 ## For https://stagepcna.znodedev.com/en-ca/brand/trimark/shop-all: 
 
 
-Total load time is 2.384 seconds
+Total load time is 2.417 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
@@ -694,13 +694,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/brand/trimark/shop-all
 ## For https://stagepcna.znodedev.com/en-us/brand/herschel: 
 
 
-Total load time is 2.261 seconds
+Total load time is 2.686 seconds
 
 
 95% of CSS is unused, 23 total stylesheets
 
 
-52% of JS is unused
+57% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/brand/herschel
@@ -711,13 +711,13 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/herschel
 ## For https://stagepcna.znodedev.com/en-us/brand/skullcandy: 
 
 
-Total load time is 2.253 seconds
+Total load time is 2.476 seconds
 
 
 94% of CSS is unused, 9 total stylesheets
 
 
-48% of JS is unused
+50% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/brand/skullcandy
@@ -728,7 +728,7 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/skullcandy
 ## For https://stagepcna.znodedev.com/en-us/brand/roots-73: 
 
 
-Total load time is 2.413 seconds
+Total load time is 2.697 seconds
 
 
 95% of CSS is unused, 21 total stylesheets
@@ -745,13 +745,13 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/roots-73
 ## For https://stagepcna.znodedev.com/en-us/brand/camelbak: 
 
 
-Total load time is 2.336 seconds
+Total load time is 2.203 seconds
 
 
 94% of CSS is unused, 8 total stylesheets
 
 
-50% of JS is unused
+51% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/brand/camelbak
@@ -762,7 +762,7 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/camelbak
 ## For https://stagepcna.znodedev.com/en-us/brand/arctic-zone: 
 
 
-Total load time is 2.377 seconds
+Total load time is 2.655 seconds
 
 
 95% of CSS is unused, 21 total stylesheets
@@ -779,13 +779,13 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/arctic-zone
 ## For https://stagepcna.znodedev.com/en-us/brand/moop/shop-all: 
 
 
-Total load time is 2.73 seconds
+Total load time is 2.72 seconds
 
 
 93% of CSS is unused, 12 total stylesheets
 
 
-59% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/brand/moop/shop-all
@@ -796,13 +796,13 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/moop/shop-all
 ## For https://stagepcna.znodedev.com/en-us/brand/rocketbook/shop-all: 
 
 
-Total load time is 2.768 seconds
+Total load time is 2.831 seconds
 
 
 93% of CSS is unused, 10 total stylesheets
 
 
-68% of JS is unused
+53% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/brand/rocketbook/shop-all
@@ -813,13 +813,13 @@ End of report for https://stagepcna.znodedev.com/en-us/brand/rocketbook/shop-all
 ## For https://stagepcna.znodedev.com/en-us/new-products: 
 
 
-Total load time is 3.168 seconds
+Total load time is 4.19 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-51% of JS is unused
+49% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/new-products
@@ -830,7 +830,7 @@ End of report for https://stagepcna.znodedev.com/en-us/new-products
 ## For https://stagepcna.znodedev.com/en-us/clearance-products: 
 
 
-Total load time is 3.204 seconds
+Total load time is 4.264 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
@@ -847,13 +847,13 @@ End of report for https://stagepcna.znodedev.com/en-us/clearance-products
 ## For https://stagepcna.znodedev.com/en-us/deals: 
 
 
-Total load time is 3.062 seconds
+Total load time is 4.245 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-51% of JS is unused
+49% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/deals
@@ -864,7 +864,7 @@ End of report for https://stagepcna.znodedev.com/en-us/deals
 ## For https://stagepcna.znodedev.com/en-us/request-samples/leeds: 
 
 
-Total load time is 2.366 seconds
+Total load time is 2.564 seconds
 
 
 95% of CSS is unused, 14 total stylesheets
@@ -881,13 +881,13 @@ End of report for https://stagepcna.znodedev.com/en-us/request-samples/leeds
 ## For https://stagepcna.znodedev.com/en-us/how-to-order/leeds: 
 
 
-Total load time is 2.369 seconds
+Total load time is 2.431 seconds
 
 
 95% of CSS is unused, 16 total stylesheets
 
 
-51% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/how-to-order/leeds
@@ -898,13 +898,13 @@ End of report for https://stagepcna.znodedev.com/en-us/how-to-order/leeds
 ## For https://stagepcna.znodedev.com/en-us/fulfillment-shipping/leeds: 
 
 
-Total load time is 2.414 seconds
+Total load time is 2.624 seconds
 
 
 95% of CSS is unused, 15 total stylesheets
 
 
-52% of JS is unused
+51% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/fulfillment-shipping/leeds
@@ -915,13 +915,13 @@ End of report for https://stagepcna.znodedev.com/en-us/fulfillment-shipping/leed
 ## For https://stagepcna.znodedev.com/en-us/returns-cancellations/leeds: 
 
 
-Total load time is 2.41 seconds
+Total load time is 2.611 seconds
 
 
 95% of CSS is unused, 14 total stylesheets
 
 
-57% of JS is unused
+53% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/returns-cancellations/leeds
@@ -932,13 +932,13 @@ End of report for https://stagepcna.znodedev.com/en-us/returns-cancellations/lee
 ## For https://stagepcna.znodedev.com/en-us/how-to-order/leeds: 
 
 
-Total load time is 2.385 seconds
+Total load time is 2.266 seconds
 
 
 95% of CSS is unused, 16 total stylesheets
 
 
-51% of JS is unused
+53% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/how-to-order/leeds
@@ -949,13 +949,13 @@ End of report for https://stagepcna.znodedev.com/en-us/how-to-order/leeds
 ## For https://stagepcna.znodedev.com/en-us/user/sign-up: 
 
 
-Total load time is 2.23 seconds
+Total load time is 2.98 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-51% of JS is unused
+54% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/user/sign-up
@@ -966,13 +966,13 @@ End of report for https://stagepcna.znodedev.com/en-us/user/sign-up
 ## For https://stagepcna.znodedev.com/en-us/site-map: 
 
 
-Total load time is 2.989 seconds
+Total load time is 2.288 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-54% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/site-map
@@ -983,13 +983,13 @@ End of report for https://stagepcna.znodedev.com/en-us/site-map
 ## For https://stagepcna.znodedev.com/en-us/about: 
 
 
-Total load time is 2.368 seconds
+Total load time is 2.39 seconds
 
 
 94% of CSS is unused, 9 total stylesheets
 
 
-51% of JS is unused
+74% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/about
@@ -1000,13 +1000,13 @@ End of report for https://stagepcna.znodedev.com/en-us/about
 ## For https://stagepcna.znodedev.com/brand/list: 
 
 
-Total load time is 2.529 seconds
+Total load time is 2.635 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-52% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/brand/list
@@ -1017,13 +1017,13 @@ End of report for https://stagepcna.znodedev.com/brand/list
 ## For https://stagepcna.znodedev.com/en-us/careers: 
 
 
-Total load time is 3.031 seconds
+Total load time is 3.027 seconds
 
 
 93% of CSS is unused, 27 total stylesheets
 
 
-51% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/careers
@@ -1034,13 +1034,13 @@ End of report for https://stagepcna.znodedev.com/en-us/careers
 ## For https://stagepcna.znodedev.com/en-us/compliance: 
 
 
-Total load time is 2.417 seconds
+Total load time is 2.643 seconds
 
 
 94% of CSS is unused, 19 total stylesheets
 
 
-47% of JS is unused
+51% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/compliance
@@ -1051,13 +1051,13 @@ End of report for https://stagepcna.znodedev.com/en-us/compliance
 ## For https://stagepcna.znodedev.com/en-us/product-recalls: 
 
 
-Total load time is 2.291 seconds
+Total load time is 2.549 seconds
 
 
 95% of CSS is unused, 10 total stylesheets
 
 
-51% of JS is unused
+53% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product-recalls
@@ -1068,13 +1068,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product-recalls
 ## For https://stagepcna.znodedev.com/en-us/privacy-policy: 
 
 
-Total load time is 2.339 seconds
+Total load time is 2.454 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-51% of JS is unused
+52% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/privacy-policy
@@ -1085,13 +1085,13 @@ End of report for https://stagepcna.znodedev.com/en-us/privacy-policy
 ## For https://stagepcna.znodedev.com/en-us/legal: 
 
 
-Total load time is 2.424 seconds
+Total load time is 2.475 seconds
 
 
 95% of CSS is unused, 15 total stylesheets
 
 
-53% of JS is unused
+51% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/legal
@@ -1102,13 +1102,13 @@ End of report for https://stagepcna.znodedev.com/en-us/legal
 ## For https://stagepcna.znodedev.com/en-us/apparel: 
 
 
-Total load time is 3.031 seconds
+Total load time is 4.33 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-49% of JS is unused
+52% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/apparel
@@ -1119,13 +1119,13 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel
 ## For https://stagepcna.znodedev.com/en-us/bags: 
 
 
-Total load time is 3.156 seconds
+Total load time is 4.233 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-49% of JS is unused
+61% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/bags
@@ -1136,13 +1136,13 @@ End of report for https://stagepcna.znodedev.com/en-us/bags
 ## For https://stagepcna.znodedev.com/en-us/drinkware: 
 
 
-Total load time is 3.604 seconds
+Total load time is 3.986 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-54% of JS is unused
+50% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/drinkware
@@ -1153,7 +1153,7 @@ End of report for https://stagepcna.znodedev.com/en-us/drinkware
 ## For https://stagepcna.znodedev.com/en-us/health-beauty: 
 
 
-Total load time is 3.467 seconds
+Total load time is 3.969 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
@@ -1170,13 +1170,13 @@ End of report for https://stagepcna.znodedev.com/en-us/health-beauty
 ## For https://stagepcna.znodedev.com/en-us/home-diy: 
 
 
-Total load time is 3.084 seconds
+Total load time is 3.951 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-53% of JS is unused
+56% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/home-diy
@@ -1187,13 +1187,13 @@ End of report for https://stagepcna.znodedev.com/en-us/home-diy
 ## For https://stagepcna.znodedev.com/en-us/office: 
 
 
-Total load time is 3.108 seconds
+Total load time is 3.962 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-49% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/office
@@ -1204,13 +1204,13 @@ End of report for https://stagepcna.znodedev.com/en-us/office
 ## For https://stagepcna.znodedev.com/en-us/outdoor-sport: 
 
 
-Total load time is 3.118 seconds
+Total load time is 4.185 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-49% of JS is unused
+52% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/outdoor-sport
@@ -1221,13 +1221,13 @@ End of report for https://stagepcna.znodedev.com/en-us/outdoor-sport
 ## For https://stagepcna.znodedev.com/en-us/technology: 
 
 
-Total load time is 3.054 seconds
+Total load time is 4.167 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-52% of JS is unused
+54% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/technology
@@ -1238,7 +1238,7 @@ End of report for https://stagepcna.znodedev.com/en-us/technology
 ## For https://stagepcna.znodedev.com/en-us/eco-friendly: 
 
 
-Total load time is 3.064 seconds
+Total load time is 4.192 seconds
 
 
 92% of CSS is unused, 15 total stylesheets
@@ -1255,13 +1255,13 @@ End of report for https://stagepcna.znodedev.com/en-us/eco-friendly
 ## For https://stagepcna.znodedev.com/en-us/apparel/apparel-accessories: 
 
 
-Total load time is 3.111 seconds
+Total load time is 4.184 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-48% of JS is unused
+50% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/apparel/apparel-accessories
@@ -1272,13 +1272,13 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel/apparel-accessori
 ## For https://stagepcna.znodedev.com/en-us/apparel/face-coverings: 
 
 
-Total load time is 2.429 seconds
+Total load time is 2.848 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-57% of JS is unused
+58% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/apparel/face-coverings
@@ -1289,13 +1289,13 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel/face-coverings
 ## For https://stagepcna.znodedev.com/en-us/apparel/headwear: 
 
 
-Total load time is 3.008 seconds
+Total load time is 3.952 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-44% of JS is unused
+45% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/apparel/headwear
@@ -1306,13 +1306,13 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel/headwear
 ## For https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts: 
 
 
-Total load time is 3.033 seconds
+Total load time is 3.24 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-49% of JS is unused
+44% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts
@@ -1323,13 +1323,13 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshir
 ## For https://stagepcna.znodedev.com/en-us/apparel/jackets-vests: 
 
 
-Total load time is 2.998 seconds
+Total load time is 4.382 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-49% of JS is unused
+48% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/apparel/jackets-vests
@@ -1340,13 +1340,13 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel/jackets-vests
 ## For https://stagepcna.znodedev.com/en-us/apparel/polos: 
 
 
-Total load time is 2.98 seconds
+Total load time is 4.58 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-63% of JS is unused
+51% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/apparel/polos
@@ -1357,13 +1357,13 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel/polos
 ## For https://stagepcna.znodedev.com/en-us/apparel/shirts: 
 
 
-Total load time is 2.994 seconds
+Total load time is 4.146 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-49% of JS is unused
+51% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/apparel/shirts
@@ -1374,7 +1374,7 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel/shirts
 ## For https://stagepcna.znodedev.com/en-us/apparel/sweaters: 
 
 
-Total load time is 2.636 seconds
+Total load time is 3.313 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
@@ -1391,13 +1391,13 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel/sweaters
 ## For https://stagepcna.znodedev.com/en-us/apparel/t-shirts: 
 
 
-Total load time is 2.872 seconds
+Total load time is 3.959 seconds
 
 
 92% of CSS is unused, 14 total stylesheets
 
 
-52% of JS is unused
+48% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/apparel/t-shirts
@@ -1408,13 +1408,13 @@ End of report for https://stagepcna.znodedev.com/en-us/apparel/t-shirts
 ## For https://stagepcna.znodedev.com/en-us/product/skullcandy-crusher-evo-bluetooth-headphones-7196-15: 
 
 
-Total load time is 2.809 seconds
+Total load time is 2.98 seconds
 
 
 92% of CSS is unused, 11 total stylesheets
 
 
-55% of JS is unused
+57% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/skullcandy-crusher-evo-bluetooth-headphones-7196-15
@@ -1425,13 +1425,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/skullcandy-crushe
 ## For https://stagepcna.znodedev.com/en-ca/product/skullcandy-crusher-evo-bluetooth-headphones-7196-15: 
 
 
-Total load time is 2.816 seconds
+Total load time is 2.924 seconds
 
 
 92% of CSS is unused, 11 total stylesheets
 
 
-64% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-ca/product/skullcandy-crusher-evo-bluetooth-headphones-7196-15
@@ -1442,13 +1442,13 @@ End of report for https://stagepcna.znodedev.com/en-ca/product/skullcandy-crushe
 ## For https://stagepcna.znodedev.com/en-us/product/u-wallace-roots73-knit-scarf-tm45129: 
 
 
-Total load time is 2.919 seconds
+Total load time is 3.181 seconds
 
 
 92% of CSS is unused, 11 total stylesheets
 
 
-63% of JS is unused
+57% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/u-wallace-roots73-knit-scarf-tm45129
@@ -1459,7 +1459,7 @@ End of report for https://stagepcna.znodedev.com/en-us/product/u-wallace-roots73
 ## For https://stagepcna.znodedev.com/en-us/product/unisex-kyes-eco-winter-snood-tm45140: 
 
 
-Total load time is 3.07 seconds
+Total load time is 3.199 seconds
 
 
 91% of CSS is unused, 11 total stylesheets
@@ -1476,13 +1476,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/unisex-kyes-eco-w
 ## For https://stagepcna.znodedev.com/en-us/product/u-shelty-roots73-knit-toque-tm36108: 
 
 
-Total load time is 2.919 seconds
+Total load time is 2.998 seconds
 
 
 92% of CSS is unused, 11 total stylesheets
 
 
-65% of JS is unused
+66% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/u-shelty-roots73-knit-toque-tm36108
@@ -1493,13 +1493,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/u-shelty-roots73-
 ## For https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734: 
 
 
-Total load time is 3.722 seconds
+Total load time is 3.786 seconds
 
 
 91% of CSS is unused, 11 total stylesheets
 
 
-62% of JS is unused
+45% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734
@@ -1510,13 +1510,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/womens-copperbay-
 ## For https://stagepcna.znodedev.com/en-us/product/womens-bridgewater-roots73-insulated-jacket-tm99411: 
 
 
-Total load time is 3.279 seconds
+Total load time is 3.435 seconds
 
 
 92% of CSS is unused, 11 total stylesheets
 
 
-61% of JS is unused
+58% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/womens-bridgewater-roots73-insulated-jacket-tm99411
@@ -1527,13 +1527,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/womens-bridgewate
 ## For https://stagepcna.znodedev.com/en-us/product/mens-antero-short-sleeve-polo-knit-light-tm16703: 
 
 
-Total load time is 3.972 seconds
+Total load time is 4.348 seconds
 
 
 92% of CSS is unused, 11 total stylesheets
 
 
-42% of JS is unused
+65% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/mens-antero-short-sleeve-polo-knit-light-tm16703
@@ -1544,13 +1544,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/mens-antero-short
 ## For https://stagepcna.znodedev.com/en-us/product/womens-sprucelake-roots73-long-sleeve-shirt-tm97603: 
 
 
-Total load time is 3.987 seconds
+Total load time is 3.984 seconds
 
 
 91% of CSS is unused, 11 total stylesheets
 
 
-57% of JS is unused
+61% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/womens-sprucelake-roots73-long-sleeve-shirt-tm97603
@@ -1561,13 +1561,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/womens-sprucelake
 ## For https://stagepcna.znodedev.com/en-us/product/womens-equinox-knit-blazer-tm98613: 
 
 
-Total load time is 4.295 seconds
+Total load time is 4.421 seconds
 
 
 91% of CSS is unused, 11 total stylesheets
 
 
-57% of JS is unused
+43% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/womens-equinox-knit-blazer-tm98613
@@ -1578,13 +1578,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/womens-equinox-kn
 ## For https://stagepcna.znodedev.com/en-us/product/womens-riverrock-roots73-henley-tm97811: 
 
 
-Total load time is 2.939 seconds
+Total load time is 3.091 seconds
 
 
 92% of CSS is unused, 11 total stylesheets
 
 
-65% of JS is unused
+67% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/womens-riverrock-roots73-henley-tm97811
@@ -1595,10 +1595,10 @@ End of report for https://stagepcna.znodedev.com/en-us/product/womens-riverrock-
 ## For https://stagepcna.znodedev.com/en-us/product/elevate-soleil-backpack-10000-mah-power-bank-1975-22: 
 
 
-Total load time is 2.866 seconds
+Total load time is 3.035 seconds
 
 
-92% of CSS is unused, 11 total stylesheets
+92% of CSS is unused, 10 total stylesheets
 
 
 57% of JS is unused
@@ -1612,13 +1612,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/elevate-soleil-ba
 ## For https://stagepcna.znodedev.com/en-us/product/premium-work-from-home-essentials-7700-07: 
 
 
-Total load time is 2.877 seconds
+Total load time is 4.991 seconds
 
 
-92% of CSS is unused, 11 total stylesheets
+92% of CSS is unused, 10 total stylesheets
 
 
-57% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/premium-work-from-home-essentials-7700-07
@@ -1629,10 +1629,10 @@ End of report for https://stagepcna.znodedev.com/en-us/product/premium-work-from
 ## For https://stagepcna.znodedev.com/en-us/product/kenneth-cole-colombian-leather-computer-messenger-9950-34: 
 
 
-Total load time is 2.906 seconds
+Total load time is 3.094 seconds
 
 
-92% of CSS is unused, 11 total stylesheets
+92% of CSS is unused, 10 total stylesheets
 
 
 56% of JS is unused
@@ -1646,13 +1646,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/kenneth-cole-colo
 ## For https://stagepcna.znodedev.com/en-us/product/arctic-zone-titan-deep-freeze-rolling-cooler-3860-58: 
 
 
-Total load time is 2.9 seconds
+Total load time is 3.396 seconds
 
 
-92% of CSS is unused, 11 total stylesheets
+92% of CSS is unused, 10 total stylesheets
 
 
-57% of JS is unused
+38% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/arctic-zone-titan-deep-freeze-rolling-cooler-3860-58
@@ -1663,13 +1663,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/arctic-zone-titan
 ## For https://stagepcna.znodedev.com/en-us/product/field-co-campster-drawstring-rucksack-7950-25: 
 
 
-Total load time is 2.968 seconds
+Total load time is 3.552 seconds
 
 
 91% of CSS is unused, 11 total stylesheets
 
 
-61% of JS is unused
+60% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/field-co-campster-drawstring-rucksack-7950-25
@@ -1680,13 +1680,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/field-co-campster
 ## For https://stagepcna.znodedev.com/en-us/product/kenneth-cole-colombian-leather-22-duffel-9950-30: 
 
 
-Total load time is 2.912 seconds
+Total load time is 3.027 seconds
 
 
-92% of CSS is unused, 11 total stylesheets
+92% of CSS is unused, 10 total stylesheets
 
 
-57% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/kenneth-cole-colombian-leather-22-duffel-9950-30
@@ -1697,13 +1697,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/kenneth-cole-colo
 ## For https://stagepcna.znodedev.com/en-us/product/carhartt-signature-fanny-pack-1889-62: 
 
 
-Total load time is 3.01 seconds
+Total load time is 3.032 seconds
 
 
 91% of CSS is unused, 11 total stylesheets
 
 
-58% of JS is unused
+40% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/carhartt-signature-fanny-pack-1889-62
@@ -1714,13 +1714,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/carhartt-signatur
 ## For https://stagepcna.znodedev.com/en-us/product/thule-subterra-carry-on-22-luggage-9020-55: 
 
 
-Total load time is 3.055 seconds
+Total load time is 2.467 seconds
 
 
-95% of CSS is unused, 8 total stylesheets
+95% of CSS is unused, 7 total stylesheets
 
 
-52% of JS is unused
+67% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/thule-subterra-carry-on-22-luggage-9020-55
@@ -1731,13 +1731,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/thule-subterra-ca
 ## For https://stagepcna.znodedev.com/en-us/product/moop-porter-tote-9005-22: 
 
 
-Total load time is 2.979 seconds
+Total load time is 9.723 seconds
 
 
-92% of CSS is unused, 11 total stylesheets
+92% of CSS is unused, 10 total stylesheets
 
 
-57% of JS is unused
+56% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/moop-porter-tote-9005-22
@@ -1748,13 +1748,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/moop-porter-tote-
 ## For https://stagepcna.znodedev.com/en-us/product/herschel-travel-daypack-20l-2009-15: 
 
 
-Total load time is 2.837 seconds
+Total load time is 2.822 seconds
 
 
-92% of CSS is unused, 11 total stylesheets
+92% of CSS is unused, 10 total stylesheets
 
 
-66% of JS is unused
+38% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/herschel-travel-daypack-20l-2009-15
@@ -1765,13 +1765,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/herschel-travel-d
 ## For https://stagepcna.znodedev.com/en-us/product/downtown-sling-backpack-sm-7591: 
 
 
-Total load time is 2.858 seconds
+Total load time is 2.89 seconds
 
 
-92% of CSS is unused, 11 total stylesheets
+92% of CSS is unused, 10 total stylesheets
 
 
-65% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/downtown-sling-backpack-sm-7591
@@ -1782,13 +1782,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/downtown-sling-ba
 ## For https://stagepcna.znodedev.com/en-us/product/basic-work-from-home-essentials-kit-7700-04: 
 
 
-Total load time is 2.833 seconds
+Total load time is 3.616 seconds
 
 
-92% of CSS is unused, 11 total stylesheets
+92% of CSS is unused, 10 total stylesheets
 
 
-43% of JS is unused
+56% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/basic-work-from-home-essentials-kit-7700-04
@@ -1799,13 +1799,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/basic-work-from-h
 ## For https://stagepcna.znodedev.com/en-us/product/rhythm-non-woven-messenger-bag-sm-7349: 
 
 
-Total load time is 3.038 seconds
+Total load time is 3.543 seconds
 
 
-91% of CSS is unused, 11 total stylesheets
+91% of CSS is unused, 10 total stylesheets
 
 
-61% of JS is unused
+51% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/rhythm-non-woven-messenger-bag-sm-7349
@@ -1816,13 +1816,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/rhythm-non-woven-
 ## For https://stagepcna.znodedev.com/en-us/product/261464: 
 
 
-Total load time is 3.169 seconds
+Total load time is 12.929 seconds
 
 
-92% of CSS is unused, 11 total stylesheets
+92% of CSS is unused, 10 total stylesheets
 
 
-57% of JS is unused
+56% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/261464
@@ -1833,13 +1833,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/261464
 ## For https://stagepcna.znodedev.com/en-us/product/crossweave-heat-sealed-drawstring-bag-sm-5892: 
 
 
-Total load time is 2.977 seconds
+Total load time is 4.19 seconds
 
 
 91% of CSS is unused, 11 total stylesheets
 
 
-62% of JS is unused
+61% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/crossweave-heat-sealed-drawstring-bag-sm-5892
@@ -1850,13 +1850,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/crossweave-heat-s
 ## For https://stagepcna.znodedev.com/en-us/product/merchant-craft-sawyer-18-duffel-3750-30: 
 
 
-Total load time is 2.425 seconds
+Total load time is 2.503 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-52% of JS is unused
+53% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/merchant-craft-sawyer-18-duffel-3750-30
@@ -1867,13 +1867,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/merchant-craft-sa
 ## For https://stagepcna.znodedev.com/en-us/product/hipster-budget-fanny-pack-sm-7102: 
 
 
-Total load time is 3.026 seconds
+Total load time is 3.08 seconds
 
 
-91% of CSS is unused, 11 total stylesheets
+91% of CSS is unused, 10 total stylesheets
 
 
-63% of JS is unused
+61% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/hipster-budget-fanny-pack-sm-7102
@@ -1884,13 +1884,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/hipster-budget-fa
 ## For https://stagepcna.znodedev.com/en-us/product/taggy-luggage-tag-sm-2393: 
 
 
-Total load time is 2.741 seconds
+Total load time is 2.857 seconds
 
 
 92% of CSS is unused, 11 total stylesheets
 
 
-67% of JS is unused
+65% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/taggy-luggage-tag-sm-2393
@@ -1901,13 +1901,13 @@ End of report for https://stagepcna.znodedev.com/en-us/product/taggy-luggage-tag
 ## For https://stagepcna.znodedev.com/en-us/product/beach-towel-clips-sm-7689: 
 
 
-Total load time is 2.318 seconds
+Total load time is 2.934 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
 
 
-53% of JS is unused
+55% of JS is unused
 
 
 End of report for https://stagepcna.znodedev.com/en-us/product/beach-towel-clips-sm-7689
@@ -1916,8 +1916,8 @@ End of report for https://stagepcna.znodedev.com/en-us/product/beach-towel-clips
 End of run
 
 
-The whole thing took about 6.00 minutes.
-Mon Mar 07 2022 13:26:48 GMT+0000 (Coordinated Universal Time) 
+The whole thing took about 7.00 minutes.
+Mon Mar 07 2022 14:21:57 GMT+0000 (Coordinated Universal Time) 
 
 
 
